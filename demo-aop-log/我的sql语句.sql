@@ -1,2 +1,1 @@
-/*查询语句*/
-SELECT *from users;
+SELECT *from users;/*查询语句*/
