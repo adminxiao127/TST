@@ -1,7 +1,2 @@
-﻿[gui]
-     encoding = utf-8
-[i18n]
-     commitencoding = utf-8
-[svn]
-     pathnameencoding = utf-8
-大苏打飒飒的大叔的啊
+﻿是多少啊
+大苏打飒飒的大叔的啊大大撒打算打算阿三撒撒啊撒
